@@ -1,15 +1,13 @@
 {
   "expo": {
-    "name": "my-matatena-game",
+    "name": "EsMatatena",
     "slug": "my-matatena-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ab2b3d"
     },
     "assetBundlePatterns": [
       "**/*"
